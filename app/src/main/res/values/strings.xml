@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meter2Inches</string>
+    <string name="convertBut">Convert</string>
+    <string name="txtViewMeters">Enter In Meters</string>
+    <string name="txtViewInches">Enter In Inches</string>
+    <string name="radButM2I">Meters to Inches</string>
+    <string name="radButI2M">Inches to Meters</string>
+    <string name="error_message">Please enter a valid number!</string>
+</resources>
